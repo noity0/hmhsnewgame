@@ -1,0 +1,6 @@
+{
+  "name": "Elderstone 3D: Realistic Village Life",
+  "description": "An ultra-realistic 3D village simulation locked to 120 FPS featuring deep Cannon-es physics, anti-clipping collision against all walls and wells, living villagers with real organs and neural AI, Minecraft inventory with sword, gun, bullets, and healing foods, and night-only zombie horde combat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
