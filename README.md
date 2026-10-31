@@ -109,28 +109,26 @@ See the repository for a `LICENSE` file. If no license is present, reuse and red
 
 [![Contributors](https://img.shields.io/github/contributors/noity0/hmhsnewgame?style=flat-square)](https://github.com/noity0/hmhsnewgame/graphs/contributors)
 [![Pull requests](https://img.shields.io/github/issues-pr/noity0/hmhsnewgame?style=flat-square)](https://github.com/noity0/hmhsnewgame/pulls)
-[![Good first issues](https://img.shields.io/github/issues/noity0/hmhsnewgame/good%20first%20issue?style=flat-square)](https://github.com/noity0/hmhsnewgame/labels/good%20first%20issue)
+[![Open issues](https://img.shields.io/github/issues/noity0/hmhsnewgame?style=flat-square)](https://github.com/noity0/hmhsnewgame/issues)
 
 <a href="https://github.com/noity0/hmhsnewgame/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=noity0/hmhsnewgame" alt="Contributors to hmhsnewgame" />
+  <img src="https://contrib.rocks/image?repo=noity0/hmhsnewgame&max=100&columns=10" alt="GitHub contributors to hmhsnewgame" />
 </a>
 
-The contributor graphic and GitHub contributor page reflect **real GitHub contribution activity**. Names, avatars, and contribution counts are not manually invented or assigned. As this project grows, accepted pull requests and other qualifying contributions will appear automatically.
+This live contributor panel is generated from GitHub's repository contribution data. It shows real contributors when GitHub has qualifying contribution records; it does not imply endorsement by other developers or companies.
 
 ### How to contribute
 
-1. Browse the [open issues](https://github.com/noity0/hmhsnewgame/issues) and [existing pull requests](https://github.com/noity0/hmhsnewgame/pulls) before starting work.
-2. For a major change, open an issue first to discuss the proposed approach.
-3. Fork the repository and create a focused feature or fix branch.
-4. Keep changes scoped, document user-visible behavior, and add or update tests when applicable.
-5. Run the checks documented above and include the results in your pull request.
-6. Never include API keys, passwords, personal data, or other secrets in commits or screenshots.
+1. Check the [open issues](https://github.com/noity0/hmhsnewgame/issues) and [pull requests](https://github.com/noity0/hmhsnewgame/pulls) before starting.
+2. Open an issue to discuss substantial changes.
+3. Fork the repository and create a focused branch.
+4. Keep pull requests small and explain the problem, solution, and testing performed.
+5. Update documentation and tests when behavior changes.
+6. Never commit API keys, passwords, private data, or other secrets.
 
-### Open-source ecosystem
+### Upstream projects & acknowledgements
 
-This project builds on established open-source tools and developer ecosystems documented in its technology stack. Please visit and support the upstream projects, follow their licenses, and report issues to the correct upstream repository when the problem is not caused by this project.
+This project builds on the open-source tools named in its technology stack. Visit their official documentation and repositories to learn more, and follow each project's license and attribution requirements. Upstream maintainers and well-known developers are not listed as project contributors unless they have verifiable contributions here.
 
-- [GitHub community and contribution guidelines](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)
-- [Open-source licenses explained](https://choosealicense.com/)
-
-**Community note:** No celebrity, company, or upstream maintainer is represented as a project contributor or endorser unless their contribution or endorsement is independently verifiable.
+- [GitHub: Contributing to projects](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)
+- [GitHub: Project contributors](https://docs.github.com/en/repositories/viewing-activity-and-data-for-your-repository/viewing-a-projects-contributors)
